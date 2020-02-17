@@ -1,0 +1,42 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=next%2Fdist%2Fpages%2F_app! node_modules/next/dist/client/router.js": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "framework": 2,
+      "f0e2207b025b3a3da3b05483e54c5d543b23aa8d": 3,
+      "static/runtime/main.js": 4,
+      "static/runtime/polyfills.js": 5,
+      "static\\JEJrCrJlEs5wNitEaIqzV\\pages\\_app.js": 6,
+      "static\\JEJrCrJlEs5wNitEaIqzV\\pages\\_error.js": 7,
+      "static\\JEJrCrJlEs5wNitEaIqzV\\pages\\about.js": 8,
+      "static\\JEJrCrJlEs5wNitEaIqzV\\pages\\index.js": 9,
+      "798a141f3e49a30298cdd1e4983193ce2d76e075": 10,
+      "static\\BIED4qDm9pKOMFYLMGXCW\\pages\\_app.js": 11,
+      "static\\BIED4qDm9pKOMFYLMGXCW\\pages\\_error.js": 12,
+      "static\\BIED4qDm9pKOMFYLMGXCW\\pages\\about.js": 13,
+      "static\\BIED4qDm9pKOMFYLMGXCW\\pages\\index.js": 14
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      2,
+      4,
+      5
+    ]
+  }
+}
